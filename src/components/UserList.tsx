@@ -19,6 +19,7 @@ export const UserList = () => {
           <TableCell>title</TableCell>
           <TableCell>body</TableCell>
           <TableCell>Actions</TableCell>
+          
         </TableRow>
       </TableHead>
       <TableBody>
